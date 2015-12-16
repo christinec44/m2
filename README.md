@@ -1,1 +1,1 @@
-![Ising model](ising-triangular.png "Specific heat")
+![Pi Poly model](ising-triangular.png)
