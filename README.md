@@ -1,1 +1,1 @@
-![Pi Poly model](ising-triangular.png)
+![Ising model](ising-triangular.png)
